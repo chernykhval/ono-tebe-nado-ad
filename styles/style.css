@@ -1,1 +1,15 @@
-/* место для вашего кода */
+.cover {
+    background: url("../images/cover.jpg") center / cover no-repeat;
+}
+
+.lots {
+    margin: 180px 24px 0;
+}
+
+.about {
+    margin: 120px 24px 0;
+}
+
+.footer {
+    margin-top: 180px;
+}
